@@ -1,0 +1,34 @@
+{
+    "createTask": "Kreirajte zadatak",
+        
+    "language": "Iezik",
+    "en": "Englenski",
+    "ro": "Ruminski",
+    "sr": "Srpski",
+
+    "success.message": "Zadatak je uspešno napravljen!",
+    "success.title": "Usleh",
+
+    "welcome": "Dobrodošli, {{name}}",
+    "task.manager": "Ovo je vaš lični menadžer",
+
+    "task.description": "Opis zadatka",
+    "task.title": "Naslov zadatka",
+    "task.date": "Datum zadatka",
+
+    "task.priority": "Prioritet",
+    "task.status": "Status",
+    
+    "task.error": "There was an error fetching your task",
+    "task.alert": "You have o no tasks created yet. Start by creating some tasks.",
+
+    "high": "Visok",
+    "normal": "Normalan",
+    "low": "Nizak",
+
+    "todo": "Da se postigne",
+    "inProgress": "U toku",
+    "completed": "Gotovo",
+
+    "status.asOn": "Status vaših zadataka kao na "
+}

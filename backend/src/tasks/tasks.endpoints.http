@@ -1,0 +1,24 @@
+### Fetch all tasks
+GET http://localhost:3200/tasks
+Content-Type: application/json
+
+### Create new task
+POST http://localhost:3200/tasks
+Content-Type: application/json
+
+{
+    "title": "titlu testare",
+    "date": "2023-10-25T12:00:00Z",
+    "description": "Info sent from VSCODE TEST",
+    "priority": "normal",
+    "status": "Completed"
+}
+
+### Update a task
+PUT http://localhost:3200/tasks
+Content-Type: application/json
+
+{
+    "id": "b320c31f-a884-4cef-bb49-0e3f0a71ad5c",
+    "status": "To do"
+}

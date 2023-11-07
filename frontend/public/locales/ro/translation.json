@@ -1,0 +1,34 @@
+{
+    "createTask": "Crează task",
+        
+    "language": "Limba",
+    "en": "English",
+    "ro": "Romanian",
+    "sr": "Serbian",
+
+    "success.message": "Task-ul a fost creat cu succes!",
+    "success.title": "Succes",
+
+    "welcome": "Bine ai venit, {{name}}",
+    "task.manager": "Acesta este manager-ul tau personal",
+
+    "task.description": "Descriere task",
+    "task.title": "Titlu task",
+    "task.date": "Dată task",
+
+    "task.priority": "Prioritate",
+    "task.status": "Stare",
+    
+    "task.error": "There was an error fetching your task",
+    "task.alert": "You have o no tasks created yet. Start by creating some tasks.",
+
+    "high": "Ridicată",
+    "normal": "Normală",
+    "low": "Scăzută",
+
+    "todo": "De realizat",
+    "inProgress": "În progres",
+    "completed": "Terminat",
+
+    "status.asOn": "Starea task-urilor tale "
+}
